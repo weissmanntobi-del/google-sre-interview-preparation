@@ -41,7 +41,7 @@ Build a compact story bank around incidents, automation, reliability improvement
 
 Do a small number of coding warm-ups, then simulate both rounds under realistic timing. Review mistakes, tighten stories, and stop adding new material late in the day.
 
-Start here: **[Google SRE 3-Day Interview Prep Plan](resources/05_GOOGLE_SRE_3_DAY_PREP_PLAN.pdf)**.
+Start here: ** https://tobiweissmann.gumroad.com/l/ouiwoi **.
 
 ## Coding round: what to demonstrate
 
